@@ -1,6 +1,6 @@
 # Facebook-Reactions-Animation
 
-Facebook Reaction Animation made with `React JS` and `FramerMotion`. The Reactions are important in Facebook that we use in our daily life if the video we like we give thumbsup 👍 reaction or 😍 reaction
+Facebook Reaction Animation made with `React JS` and `FramerMotion`. The Reactions are important in Facebook that we use in our daily life if the video we like we give thumbsup 👍 reaction or 😍 reaction. Hope u like this my small project!
 
 ## 🔧 Tools Used:
 - React Js
@@ -27,6 +27,6 @@ cd into the directory
 Then start the `Development Server`
 
 `npm start`
-After running the development server the site should be running on [https://localhost:3000](Localhost)
+After running the development server the site should be running on `https://localhost:3000`
 
 Give the project a ⭐ if you liked it. Made with ❤️ and React.
