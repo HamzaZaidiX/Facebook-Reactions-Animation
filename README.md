@@ -2,6 +2,10 @@
 
 Facebook Reaction Animation made with `React JS` and `FramerMotion`. The Reactions are important in Facebook that we use in our daily life if the video we like we give thumbsup 👍 reaction or 😍 reaction. Hope u like this my small project!
 
+## 📸 Screenshots:
+
+![facebook-reaction-animation](https://user-images.githubusercontent.com/52501040/178846659-a093c05d-fc17-4ef3-976c-d1a5c7d32f57.png)
+
 ## 🔧 Tools Used:
 - React Js
 - Framer Motion
