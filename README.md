@@ -29,4 +29,8 @@ Then start the `Development Server`
 `npm start`
 After running the development server the site should be running on `https://localhost:3000`
 
-Give the project a ⭐ if you liked it. Made with ❤️ and React.
+## Licence
+MIT `LICENCE` Read Licence document for more details ->
+
+# Bye! 👋
+HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** Give this Project a ⭐ if you Liked it. Made with ❤️!!! 😃👍💛
